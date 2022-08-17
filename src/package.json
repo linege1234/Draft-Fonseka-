@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@emotion/react": "11.10.0",
+    "@emotion/styled": "11.10.0",
+    "@mui/icons-material": "5.8.4",
+    "@mui/material": "5.10.0",
+    "framer-motion": "7.2.0",
+    "js-md5": "0.7.3",
+    "marvel-api-hash-generator": "1.0.3",
+    "md5": "2.3.0",
+    "md5.js": "1.3.5",
+    "react": "latest",
+    "react-beautiful-dnd": "13.1.0",
+    "react-dnd": "16.0.1",
+    "react-dom": "latest",
+    "select": "1.1.2",
+    "styled-components": "5.3.5",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.0/docs/data/material/components/transfer-list/SelectAllTransferList.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "name": "draft"
+}
