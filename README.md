@@ -9,4 +9,4 @@ it hasn't functionality to send the data(marvel's name) to white one.
 It needs redux to store the data of one component and transmit it to filed component
 
 I uploaded the first draft of web applcation screenshot.
-![soccer team](https://user-images.githubusercontent.com/47516984/185147277-533561e5-4b46-4bc8-b72e-793e042b0926.PNG)
+![capture](https://user-images.githubusercontent.com/47516984/185148715-014e563b-8817-4e00-9273-e00860971719.PNG)
